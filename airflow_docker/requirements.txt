@@ -1,0 +1,5 @@
+joblib==1.2.0
+pydantic==1.10.2
+scikit-learn==1.0.2
+scipy==1.7.3
+dill==0.3.6
